@@ -1,0 +1,10 @@
+c:\users\ryan\documents\visual studio 2010\Projects\Database\obj\x86\Debug\Database.Form1.resources
+c:\users\ryan\documents\visual studio 2010\Projects\Database\obj\x86\Debug\Database.Resources.resources
+c:\users\ryan\documents\visual studio 2010\Projects\Database\obj\x86\Debug\Database.vbproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2010\Projects\Database\bin\Debug\Database.exe
+c:\users\ryan\documents\visual studio 2010\Projects\Database\bin\Debug\Database.pdb
+c:\users\ryan\documents\visual studio 2010\Projects\Database\bin\Debug\Database.xml
+c:\users\ryan\documents\visual studio 2010\Projects\Database\obj\x86\Debug\Database.exe
+c:\users\ryan\documents\visual studio 2010\Projects\Database\obj\x86\Debug\Database.xml
+c:\users\ryan\documents\visual studio 2010\Projects\Database\obj\x86\Debug\Database.pdb
+C:\Users\Ryan\Documents\Visual Studio 2010\Projects\Database\obj\x86\Debug\Database.search.resources
